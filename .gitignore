@@ -1,0 +1,14 @@
+# Only the explicitly staged public documents/assets belong in this repository.
+ABOUT.md
+Agnessa-Better-Volume-CS16-v9.zip
+Ayanami-Voice-v9.zip
+*.log
+*.dmp
+*.mdmp
+*.pdb
+*.ini
+*.asi
+*.dll
+*.exe
+*.tmp
+backups/

@@ -1,0 +1,44 @@
+AYANAMI VOICE — PROPRIETARY PROJECT TERMS
+
+Copyright (c) 2026 cuteporn (Agnessa). All rights reserved.
+
+1. Scope
+These terms apply only to original Ayanami Voice project materials to the
+extent that I, cuteporn (Agnessa), own copyright in those materials. They do
+not claim ownership of third-party software, artwork, characters, names,
+trademarks, or other third-party rights.
+
+2. Personal use
+You may download, install and run unmodified official module binaries for
+personal, non-commercial use. You may adjust the supplied configuration
+for your own use. No permission is granted to remove attribution, publish
+modified project binaries, redistribute original project materials, or
+commercially exploit them without my prior written permission,
+except as otherwise allowed by applicable law or the applicable third-party
+terms. These terms do not limit viewing or forking rights granted by GitHub's
+Terms of Service.
+
+3. Third-party components
+RNNoise and its included components remain governed by their own BSD-3-Clause
+license, reproduced in licenses/RNNoise-LICENSE.txt and in the download.
+Their copyright notices, permissions and disclaimers remain intact. These
+project terms do not restrict rights granted under that license.
+
+The Ayanami Rei character and Evangelion-related names and imagery are not
+owned by this project. No license to third-party character, artwork or
+trademark rights is granted or implied. See THIRD_PARTY_NOTICES.md.
+
+4. No warranty
+To the extent permitted by applicable law, original project materials are
+provided "AS IS", without warranties of any kind. Compatibility, uninterrupted
+operation and anti-cheat/VAC safety are not guaranteed. I am not
+liable for damages arising from use except where liability cannot lawfully
+be excluded. Third-party components carry their own warranty disclaimers.
+
+5. Permission requests
+Contact me through https://github.com/cuteporn/ayanami-voice/issues.
+
+Кратко: официальную сборку можно использовать лично и некоммерчески.
+Изменение и распространение оригинальных материалов требуют моего разрешения,
+кроме случаев, разрешённых законом, правилами GitHub или отдельными
+лицензиями сторонних компонентов. Права третьих лиц не присваиваются.
